@@ -1,0 +1,8 @@
+{
+    "name": "simba/fatfree",
+    "require": {
+
+        "bcosca/fatfree":"3.8.0"
+    }
+
+}
