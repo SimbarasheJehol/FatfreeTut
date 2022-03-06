@@ -10,7 +10,7 @@
 
     <body>
 
-        <p>Hello, <?= ($name) ?>!</p>
+        <p><?= ($msg['messages']) ?>!</p>
         
     </body>
     
